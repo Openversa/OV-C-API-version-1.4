@@ -1,4 +1,4 @@
-# openversa_C_v1
+# Openversa C API Versiona 1.4
 Initial C Binding for REST api.openversa.com interface. The FULL REST API documentation is located https://api.openversa.com under the api section. To sign up and recieve your API Keys email ed@openversa.com and the request will be completed. You will be able to create groups and message any person or device.
 
 Within the files be sure to replace the API KEY, SECRET and USER EMAIL fields with your openversa development credentials
